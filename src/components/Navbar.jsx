@@ -45,11 +45,14 @@ const Navbar = () => {
           {/* code for the logo is below (uncomment to reveal) 
            img src={logo} alt="logo" className="w-9 h-9 object-contain" />
            */}
+
+          {/* Code for the Hello I'm text is below (uncomment to reveal) 
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            {/* Insert text for top left here */}
+            Hello I'm 
             &nbsp;
-            <span className="sm:block hidden"> {/* Insert text for top left here */} </span>
+            <span className="sm:block hidden"> Adrian </span>
           </p>
+          */}
         </Link>
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
