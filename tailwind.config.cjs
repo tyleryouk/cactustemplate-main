@@ -19,7 +19,7 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/cactusbubble10cropped2.png')",
+        "hero-pattern": "url('/src/assets/spacebg16main.png')",
       },
     },
   },
