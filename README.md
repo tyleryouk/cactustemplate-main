@@ -1,3 +1,14 @@
+Dear future cloners, 
+
+to run this application:
+
+- clone https://github.com/tyleryouk/cactustemplate-main.git into a folder 
+- open your IDE and run the following commands in the terminal:
+npm install
+npm run dev
+
+# ORIGINAL README.md from Javascript Mastery below
+
 # Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
 ![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
 
